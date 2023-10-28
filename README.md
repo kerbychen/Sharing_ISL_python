@@ -27,6 +27,8 @@ Please refer https://www.statlearning.com/ for more details. In 2nd Edition, the
 * collections
 * itertools
 
+Ok
+
 
 ### Special thanks to Bommy
 
